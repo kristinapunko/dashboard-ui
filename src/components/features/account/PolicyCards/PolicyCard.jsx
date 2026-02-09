@@ -1,5 +1,3 @@
-// import { Anchor, Shield, Briefcase, Home, Umbrella } from 'lucide-react';
-
 const PolicyCard = ({ icon: Icon, title, premium, effDate, iconColor }) => (
   <div className="bg-[var(--color-brand-border)]/30 rounded-3xl p-5 flex-1 min-w-[240px]">
     <div className="flex items-center gap-3 mb-1">
