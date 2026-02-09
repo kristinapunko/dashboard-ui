@@ -63,4 +63,10 @@ Static data
 
 * **Google Gemini**
 * **Claude**
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using Vercel.
  
